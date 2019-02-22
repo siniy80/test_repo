@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5696d207_99e8a426",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1016055
+      },
+      "writtenOn": "2019-02-22T19:08:57Z",
+      "side": 1,
+      "message": "replace this",
+      "revId": "25cd5b4c17313398bbbd3a8989e1b765f1f49b89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
